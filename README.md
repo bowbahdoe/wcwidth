@@ -1,7 +1,7 @@
 # wcwidth
 
 This is a port of the C [wcwidth](https://man7.org/linux/man-pages/man3/wcwidth.3.html) function in pure
-Java.
+Java. The code is taken from JLine.
 
 While I am publishing this as a library, you might also consider just shading the utility into your own project.
 
