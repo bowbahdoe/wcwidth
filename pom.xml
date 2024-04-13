@@ -13,6 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
+        <jreleaser.project.version.pattern>CALVER:YYYY.0M:0D</jreleaser.project.version.pattern>
     </properties>
 
     <name>wcwidth</name>
