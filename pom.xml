@@ -121,6 +121,7 @@
                         <configuration>
                             <jreleaser>
                                 <project>
+                                    <copyright>2024</copyright>
                                     <versionPattern>CHRONVER</versionPattern>
                                 </project>
                                 <signing>
