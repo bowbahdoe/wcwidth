@@ -121,7 +121,7 @@
                         <configuration>
                             <jreleaser>
                                 <project>
-                                    <versionPattern>CRONVER</versionPattern>
+                                    <versionPattern>CHRONVER</versionPattern>
                                 </project>
                                 <signing>
                                     <active>ALWAYS</active>
