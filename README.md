@@ -16,6 +16,6 @@ You can find examples of similar utilities in other libraries
 <dependency>
     <groupId>dev.mccue</groupId>
     <artifactId>wcwidth</artifactId>
-    <version>2024.05.12</version>
+    <version>2024.05.17</version>
 </dependency>
 ```
