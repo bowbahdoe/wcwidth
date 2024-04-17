@@ -6,7 +6,7 @@
 
     <groupId>dev.mccue</groupId>
     <artifactId>wcwidth</artifactId>
-    <version>2024.05.12</version>
+    <version>2024.05.17</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -122,7 +122,7 @@
                             <jreleaser>
                                 <project>
                                     <copyright>2024</copyright>
-                                    <versionPattern>CHRONVER</versionPattern>
+                                    <versionPattern><type>CHRONVER</type></versionPattern>
                                 </project>
                                 <signing>
                                     <active>ALWAYS</active>
